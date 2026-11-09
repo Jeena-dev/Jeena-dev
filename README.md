@@ -1,6 +1,6 @@
 ### A little about me:
 
-* Full-Stack Java Developer passionate about building robust web applications and learning new technologies.
+* Full-Stack Java Developer passionate about building web applications and learning new technologies.
 * Open to junior software developer and full-stack opportunities in the Greater Toronto Area.
 
 ### Reach out:
